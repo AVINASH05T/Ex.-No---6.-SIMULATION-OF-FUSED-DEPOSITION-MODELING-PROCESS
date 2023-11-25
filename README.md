@@ -21,7 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Uploading image.png…]()
+![Screenshot 2023-11-25 102124](https://github.com/AVINASH05T/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151514286/b1c95c2e-1a1d-4fb3-a145-df32e3ec8354)
 
 ### Name:AVINASH T
 ### Register Number:23014109
